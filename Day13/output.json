@@ -1,0 +1,49 @@
+{
+    "root": [
+        {
+            "street": "601 Constitution Ave NW",
+            "neighborhood": "",
+            "city": "Washington",
+            "county": "District of Columbia",
+            "state": "DC",
+            "country": "US",
+            "postal_code": "20004"
+        },
+        {
+            "street": "Shanti Desai Marg",
+            "neighborhood": "",
+            "city": "Delhi",
+            "county": "",
+            "state": "Delhi",
+            "country": "IN",
+            "postal_code": "110006"
+        },
+        {
+            "street": "999 W Addison St",
+            "neighborhood": "",
+            "city": "Chicago",
+            "county": "Cook",
+            "state": "IL",
+            "country": "US",
+            "postal_code": "60613-4345"
+        },
+        {
+            "street": "12716 Ashley Melisse Blvd",
+            "neighborhood": "",
+            "city": "Jacksonville",
+            "county": "Duval",
+            "state": "FL",
+            "country": "US",
+            "postal_code": "32225"
+        },
+        {
+            "street": "",
+            "neighborhood": "",
+            "city": "Surat",
+            "county": "",
+            "state": "Gujarat",
+            "country": "IN",
+            "postal_code": "395001"
+        }
+    ]
+}

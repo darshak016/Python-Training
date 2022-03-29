@@ -1,0 +1,35 @@
+2022-02-16 13:08:21,205 INFO : Thread-1 (api_call)is running
+2022-02-16 13:08:21,205 INFO : Thread [Thread-1 (api_call)] API call
+2022-02-16 13:08:21,205 INFO : Thread-2 (api_call)is running
+2022-02-16 13:08:21,206 INFO : Thread [Thread-2 (api_call)] API call
+2022-02-16 13:08:21,206 INFO : Thread-3 (api_call)is running
+2022-02-16 13:08:21,207 INFO : Thread [Thread-3 (api_call)] API call
+2022-02-16 13:08:21,207 INFO : Thread-4 (api_call)is running
+2022-02-16 13:08:21,207 INFO : Thread [Thread-4 (api_call)] API call
+2022-02-16 13:08:21,208 INFO : Thread-5 (api_call)is running
+2022-02-16 13:08:21,208 INFO : Thread [Thread-5 (api_call)] API call
+2022-02-16 13:08:21,214 DEBUG : Starting new HTTPS connection (1): www.mapquestapi.com:443
+2022-02-16 13:08:21,216 DEBUG : Starting new HTTPS connection (1): www.mapquestapi.com:443
+2022-02-16 13:08:21,216 DEBUG : Starting new HTTPS connection (1): www.mapquestapi.com:443
+2022-02-16 13:08:21,217 DEBUG : Starting new HTTPS connection (1): www.mapquestapi.com:443
+2022-02-16 13:08:21,217 DEBUG : Starting new HTTPS connection (1): www.mapquestapi.com:443
+2022-02-16 13:08:22,432 DEBUG : https://www.mapquestapi.com:443 "GET /geocoding/v1/reverse?key=dTnNUsIGLsnAKxfMAGulGSLpvGZ4eGsC&location=41.947259%2C+-87.65438%0A HTTP/1.1" 200 1059
+2022-02-16 13:08:22,432 DEBUG : https://www.mapquestapi.com:443 "GET /geocoding/v1/reverse?key=dTnNUsIGLsnAKxfMAGulGSLpvGZ4eGsC&location=30.33347%2C+-81.470448%0A HTTP/1.1" 200 1087
+2022-02-16 13:08:22,432 DEBUG : https://www.mapquestapi.com:443 "GET /geocoding/v1/reverse?key=dTnNUsIGLsnAKxfMAGulGSLpvGZ4eGsC&location=21.186461%2C+72.808128%0A HTTP/1.1" 200 1051
+2022-02-16 13:08:22,433 DEBUG : https://www.mapquestapi.com:443 "GET /geocoding/v1/reverse?key=dTnNUsIGLsnAKxfMAGulGSLpvGZ4eGsC&location=38.892062%2C+-77.019912 HTTP/1.1" 200 1084
+2022-02-16 13:08:22,433 DEBUG : https://www.mapquestapi.com:443 "GET /geocoding/v1/reverse?key=dTnNUsIGLsnAKxfMAGulGSLpvGZ4eGsC&location=28.657291%2C+77.22726%0A HTTP/1.1" 200 1067
+2022-02-16 13:08:22,436 INFO :  Thread [Thread-4 (api_call)] Response received
+2022-02-16 13:08:22,438 INFO :  Thread [Thread-3 (api_call)] Response received
+2022-02-16 13:08:22,439 INFO :  Thread [Thread-1 (api_call)] Response received
+2022-02-16 13:08:22,444 INFO :  Thread [Thread-5 (api_call)] Response received
+2022-02-16 13:08:22,446 INFO :  Thread [Thread-2 (api_call)] Response received
+2022-02-16 13:08:22,448 INFO : Thread [Thread-4 (api_call)] JSON data is stored in file
+2022-02-16 13:08:22,448 INFO : Thread [Thread-3 (api_call)] JSON data is stored in file
+2022-02-16 13:08:22,449 INFO : Thread [Thread-1 (api_call)] JSON data is stored in file
+2022-02-16 13:08:22,450 INFO : Thread-1 (api_call) Completed
+2022-02-16 13:08:22,450 INFO : Thread [Thread-2 (api_call)] JSON data is stored in file
+2022-02-16 13:08:22,451 INFO : Thread-2 (api_call) Completed
+2022-02-16 13:08:22,451 INFO : Thread-3 (api_call) Completed
+2022-02-16 13:08:22,451 INFO : Thread-4 (api_call) Completed
+2022-02-16 13:08:22,451 INFO : Thread [Thread-5 (api_call)] JSON data is stored in file
+2022-02-16 13:08:22,452 INFO : Thread-5 (api_call) Completed

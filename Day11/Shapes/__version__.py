@@ -1,0 +1,5 @@
+__title__ = "Shape"
+__description__ = "Providing the information of Shapes"
+__version__ = "1.0.0"
+__author__ = "Darshak kakani"
+__copyright__ = "Copyright 2021 Darshak kakani"
