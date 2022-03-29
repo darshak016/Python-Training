@@ -1,0 +1,2 @@
+[console_scripts]
+dk_calc = dk_calc:main

@@ -1,0 +1,6 @@
+{
+    "Python": ["python_file1.txt", "python_file2.txt","python_file3.txt"],
+    "Java": ["java_file1.txt", "java_file2.txt"],
+    "Cpp": ["cpp_file1.txt", "cpp_file2.txt","cpp_file3.txt"],
+    "Javascript": ["javascript_file1.txt", "javascript_file2.txt"]
+}
